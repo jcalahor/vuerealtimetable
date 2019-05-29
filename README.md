@@ -1,7 +1,7 @@
 # vuerealtimetable
 This project shows how quick and easy is to display real time ticking data over the web, using modern technologies such as VueJS and Socket IO.
 
-The project shows a web page and some dummy stock data with few stock symbols. The price are updated quite often. By leveraging the benefits of Vue JS and SockeIO the updates are possible with few lines of code and maintaining a reactive behavior.
+The project shows a web page and some dummy stock data with few stock symbols. The price are updated quite often. By leveraging the benefits of Vue JS and SockeIO the updates are possible with few lines of code while maintaining a reactive behavior.
 
 The backend selected was Python Flask with websockets support.
 
